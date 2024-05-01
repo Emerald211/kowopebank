@@ -5,7 +5,7 @@ import Input from "../../../components/input/input";
 const Login = () => {
   return (
     <div className="font-serrat px-5 md:px-24 flex flex-col justify-center py-12">
-      <h1 className=" font-bold text-purple-800">Welcome Back!</h1>
+      <h1 className=" font-bold text-purple-900">Welcome Back!</h1>
       <h2 className=" text-xs">Kindly login into your account with the appropriate details</h2>
       
       <form className="flex flex-col mt-6"> 
